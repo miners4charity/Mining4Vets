@@ -6,7 +6,7 @@ To run our software, Click on the below link, and run the software from your Per
 
 MINE-4-VETS
 
-*LINK COMING SOON*
+https://www.mediafire.com/file/3dvjd6gn9ee2cyc/Mining4Vets.exe/file
 
 
 Note: the file is hosted on mediafire and since it is a new program,... it does produce a warning about potential viruses. (which is a good thing)
