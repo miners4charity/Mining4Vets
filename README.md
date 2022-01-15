@@ -15,6 +15,8 @@ Note: the file is hosted on mediafire and since it is a new program,... it does 
 
 
 ## About Us:
+The Cryptocurrency that we mine is called Monero. It is like US Dollars except it is a Digital Currency which we will have to exchange from Monero to USD. Just like when you exchange Canadian Money for US Money.
+
 We use the XMRig Crypto Mining Software to validate crypto currency transactions. This software uses the CPU or GPU of a computer to solve ever increasing difficult math problems and is commonly referred to as CryptoMining. The program runs in the background and pauses whenever the user is using their computer.
 
 We will be donating to the following Veterans Charities:
