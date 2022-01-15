@@ -1,7 +1,9 @@
 # Mining4Vets
 This is the software repo for Mining4Vets
 
-To run our software, Click on the below link, and run the software from your Personal Computer.
+To run our software:
+- Click on the below Download link
+- Run the software from your Personal Computer
 
 
 ## MINE-4-VETS
@@ -44,3 +46,7 @@ https://youtu.be/0B3sccDYwuI
 Here is a quick 5 minute intro to Monero; presented by the Monero Developers.
 
 https://www.getmonero.org/media/Monero%20-%20The%20Essentials.m4v
+
+### Will I be taxed?
+Bottom line, No *you* will not be taxed. 
+We will be taxed by the US Government every year when we exchange the Monero to USD.
