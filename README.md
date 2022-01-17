@@ -1,5 +1,5 @@
 # Mining4Vets
-This is the software repo for Mining4Vets
+This is the software repo for Mining4Vets. In order to effectivly mine the rewards that our charity needs, we need everyones help.
 
 To run our software:
 - Click on the below Download link
@@ -50,5 +50,10 @@ Here is a quick 5 minute intro to Monero; presented by the Monero Developers.
 https://www.getmonero.org/media/Monero%20-%20The%20Essentials.m4v
 
 ### Will I be taxed?
+
 Bottom line, No *you* will not be taxed. 
 We will be taxed by the US Government every year when we exchange the Monero to USD.
+
+### Why should I download and run the software?
+
+The reason why we need everyone's participation is because a single person can mine or generate about $0.50 a day. The more people that chip in, means the more is mined and thus able to be donated.
