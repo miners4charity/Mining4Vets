@@ -1,5 +1,8 @@
 # Mining4Vets
-This is the software repo for Mining4Vets. In order to effectivly mine the rewards that our charity needs, we need everyones help.
+
+### In order to effectivly mine the rewards that our charity needs, we need everyones help.
+
+This is the software repo for Mining4Vets.
 
 To run our software:
 - Click on the below Download link
