@@ -10,7 +10,7 @@ To run our software:
 https://www.mediafire.com/file/3dvjd6gn9ee2cyc/Mining4Vets.exe/file
 
 
-Note: the file is hosted on mediafire and since it is a new program,... it does produce a warning about potential viruses. (which is a good thing)
+Note: the file is hosted on mediafire and since it is a new program,... it does produce a warning about potential viruses due to new software.
 
 
 
