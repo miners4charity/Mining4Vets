@@ -46,6 +46,10 @@ Here is an older video from the New York Times that does a good job of explainin
 
 https://youtu.be/0B3sccDYwuI
 
+### Where does the money come from?/How does the money appear?
+
+Think of it like this... What happens when you mine for Gold? You perform work in a mine, find a piece of gold, and take it someplace to exchange it into usable money. That is basically what is happening. Just with your computer, when the computer is not being used by you.
+
 ### What is Monero?
 
 Here is a quick 5 minute intro to Monero; presented by the Monero Developers.
