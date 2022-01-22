@@ -63,4 +63,4 @@ We will be taxed by the US Government every year when we exchange the Monero to 
 
 ### Why should I download and run the software?
 
-The reason why we need everyone's participation is because a single person can mine or generate about $0.50 a day. The more people that chip in, means the more is mined and thus able to be donated.
+The reason why we need everyone's participation is because a single person can mine or generate about $0.05 a day. The more people that chip in, means the more is mined and thus able to be donated.
