@@ -15,7 +15,7 @@ Download Link:
 https://github.com/miners4charity/Mining4Vets/blob/3b1517084a56625769e08c2def850dd21fee13e1/Mining4Vets.exe
 
 
-Note: the file is hosted on mediafire and since it is a new program,... it does produce a warning about potential viruses due to new software.
+Note: Your Web Browser may produce a warning about downloading viruses. This is due to the software being new and not having many downloads as of yet.
 
 
 
