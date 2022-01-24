@@ -12,7 +12,7 @@ To run our software:
 ## MINE-4-VETS
 
 Download Link:  
-https://www.mediafire.com/file/3dvjd6gn9ee2cyc/Mining4Vets.exe/file
+https://github.com/miners4charity/Mining4Vets/blob/3b1517084a56625769e08c2def850dd21fee13e1/Mining4Vets.exe
 
 
 Note: the file is hosted on mediafire and since it is a new program,... it does produce a warning about potential viruses due to new software.
