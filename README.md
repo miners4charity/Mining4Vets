@@ -66,3 +66,11 @@ We will be taxed by the US Government every year when we exchange the Monero to 
 ### Why should I download and run the software?
 
 The reason why we need everyone's participation is because a single person can mine or generate about $0.05 a day. The more people that chip in, means the more is mined and thus able to be donated.
+
+### Isn't XMR untraceable?
+
+Investigators can still follow the money. Even the most private of cryptocurrencies like Monero, DASH, and Verge are traceable to a certain degree. This is because of the very nature of blockchain. Every single transaction is recorded and kept on a ledger — and that ledger is accessible to everyone.
+
+### Is this hacking? 
+
+No. There is no way for us to know any personally identifiable information about any user's computer. All the software does is mine crypto.
